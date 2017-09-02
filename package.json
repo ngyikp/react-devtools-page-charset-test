@@ -1,0 +1,9 @@
+{
+  "license": "CC0-1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.15.4"
+  }
+}
